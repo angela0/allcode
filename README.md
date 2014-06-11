@@ -1,0 +1,4 @@
+allcode
+=======
+
+daily code
