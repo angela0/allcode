@@ -1,5 +1,4 @@
 # include <stdio.h>     //scanf() / printf()
-# include <string.h>    //
 # include <stdlib.h>    //srand() / rand()
 # include <time.h>      //time()
 # define N 100
